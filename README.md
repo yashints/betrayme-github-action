@@ -20,7 +20,7 @@ action "BetrayMe" {
 
 # Credits
 
-Credits goes to [Zachary Rice](https://github.com/zricethezav/gitleaks) for creating this awesome gem.
+Credits goes to [Zachary Rice](https://github.com/zricethezav/gitleaks) for creating [Gitleaks](https://github.com/zricethezav/gitleaks).
 
 ----
 
